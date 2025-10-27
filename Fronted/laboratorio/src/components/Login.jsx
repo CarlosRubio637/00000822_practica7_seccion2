@@ -1,5 +1,3 @@
-components/
-Login.jsx
 import React, { useState } from "react";
 import API from "../utils/api";
 
